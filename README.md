@@ -1,2 +1,2 @@
-# pluto-rover
+# PlutoRover
 Pluto Rover Coding Exercise
